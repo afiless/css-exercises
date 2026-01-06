@@ -1,1 +1,9 @@
+div p {
+    text-align: center;
+    font-size: 28px;
+    background-color: #f0f000;
+    color: hsla(1, 100%, 50%, 1.0);
+}
+
+
 /* Add CSS Styling */
